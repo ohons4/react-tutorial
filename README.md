@@ -1,1 +1,1 @@
-Hello this React Tutorial Repository
+This is React Tutorial Repository
